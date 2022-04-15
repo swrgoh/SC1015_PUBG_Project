@@ -1,9 +1,9 @@
 # Mini-Project for SC1015 Introduction to Data Science and Artificial Intelligence
 ---
 ## Introduction
-Video games are a rich area for data extraction due to its digital nature. Notable examples such as the complex EVE Online economy, World of Warcraft corrupted blood incident and even Grand Theft Auto self-driving cars tells us that fiction is closer to reality than we really think. Data scientists can gain insight on the logic and decision-making that the players face when put in hypothetical and virtual scenarios.
+The gaming industry is a prime area for data exploration and extraction due to massive datasets and online characteristics. We can get great insight on the decision-making and logic that individual players experience and utilize when put in hypothetical and virtual scenarios like games.
 
-In this Kaggle Dataset, I provide over 720,000 competitive matches from the popular game PlayerUnknown's Battlegrounds. The data was extracted from pubg.op.gg, a game tracker website. I intend for this data-set to be purely exploratory, however users are free to create their own predictive models they see fit.
+In this project, we provide over 13,000,000 player data inputs from the popular game PlayerUnknown's Battlegrounds. The relevant data presented was extracted from the website [pubg.op.gg](http://pubg.op.gg), a game tracker website. I intend for this data-set to be purely exploratory, however users are free to create their own predictive models they see fit.
 
 
 
