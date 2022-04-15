@@ -15,7 +15,7 @@
 #### 
 
 ###  - [Dataset Folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
-####     Original Data set and Cleaned Data set can be found here
+     Original Data set and Cleaned Data set can be found here
 ---
 | Folder | ==Brief Description== |
 | ----------- | ----------- |
