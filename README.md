@@ -4,6 +4,11 @@
 ---
 ### This repository consists of 4 main folders
 ###  - [Data Scraping from website PUBG.OP.GG](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis)
+
+
+
+
+
 #### Notebooks of Data Scraping utilizing Multiprocessing
 ###  - [Prediction Models folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Model)
 #### Notebooks of Exploring Prediction Models and Individual Prediction Models can be found here.
