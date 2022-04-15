@@ -5,13 +5,14 @@
 ### This repository consists of 4 main folders
 ###  - [Data Scraping from website PUBG.OP.GG](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis)
 #### Notebooks of Data Scraping utilizing Multiprocessing
-<br>
 ###  - [Prediction Models folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Model)
 #### Notebooks of Exploring Prediction Models and Individual Prediction Models can be found here.
-<br>
 #### [Price_Predictor.ipynb](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
 #### Contains functions (predict(model,x,y)) to predict price of a 2020 Hyundai Elantra SE IVT (Values can be changed to predict other cars)
-<br>
 ###  - [Dataset Folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
 #### Original Data set and Cleaned Data set can be found here
 ---
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
