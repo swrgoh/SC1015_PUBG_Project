@@ -6,16 +6,16 @@
 ###  - [Data Scraping from website PUBG.OP.GG](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis)
      Notebooks of Data Scraping utilizing Multiprocessing
 #### 
-###  - [Prediction Models folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Model)
-     Notebooks of Exploring Prediction Models and Individual Prediction Models can be found here.
+###  - [Data Cleaning and Separation](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Model)
+     Notebooks of Cleaning up Scraped Data for Further Use
 #### 
 
-###  - [Price_Predictor.ipynb](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
-     Contains functions (predict(model,x,y)) to predict price of a 2020 Hyundai Elantra SE IVT (Values can be changed to predict other cars)
+###  - [Data Visualization Heatmap for Deaths](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
+     Contains Notebooks of Using Data to Identify Dangerous Areas 
 #### 
 
-###  - [Dataset Folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
-     Original Data set and Cleaned Data set can be found here
+###  - [Regression & Machine Learning](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
+     Using Matchdata to Determine Winning Probability and Determining Critical Factors for Winning
 ---
 | Folder | ==Brief Description== |
 | ----------- | ----------- |
