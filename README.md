@@ -2,7 +2,7 @@
 ---
 ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/PUBG.jpg "Source: https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/")
 ---
-### ==This repository consists of 4 main folders==
+### This repository consists of 4 main folders
 ###  - [Data Scraping from website PUBG.OP.GG](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis)
 #### Notebooks of Data Scraping utilizing Multiprocessing
 #### 
@@ -17,7 +17,7 @@
 ###  - [Dataset Folder](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
 #### Original Data set and Cleaned Data set can be found here
 ---
-| Folder | Brief Description |
+| Folder | ==Brief Description== |
 | ----------- | ----------- |
 | test| trial |
 | Paragraph | Text |
