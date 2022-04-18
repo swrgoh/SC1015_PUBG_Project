@@ -23,7 +23,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >Notebooks of Cleaning up Scraped Data for Further Use
 >| Step | Brief Summary |
 >| --- | ---| 
->| 1 | [Combination of data chunks from scraping process & initial cleaning}(https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/1_data_combination_initial_observation.ipynb)|
+>| 1 | [Combination of data chunks from scraping process & initial cleaning](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/1_data_combination_initial_observation.ipynb) |
 >|2A | [Comprehensive cleaning of General Data with analysis](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2a_comprehensive_data_cleaning_erangel_gen.ipynb)|
 #### 
 
