@@ -19,8 +19,12 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >|1B| [Using 50k discrete player names to recusrively search their match history, and returning data from all players within each match](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1b_data_match_detail_scrape.ipynb)|
 >|2| [Helper script written in Python 3.0, utilizing multiprocessing to speed up data collection process](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/2_helper.py) |
 #### 
-###  - [Data Cleaning and Separation](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Model)
-     Notebooks of Cleaning up Scraped Data for Further Use
+###  - [Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
+>Notebooks of Cleaning up Scraped Data for Further Use
+>| Step | Brief Summary |
+>| --- | ---| 
+>| 1 | [Combination of data chunks from scraping process & initial cleaning] (https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/1_data_combination_initial_observation.ipynb)|
+>|2A | [Comprehensive cleaning of General Data with analysis](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2a_comprehensive_data_cleaning_erangel_gen.ipynb)|
 #### 
 
 ###  - [Data Visualization Heatmap for Deaths](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
