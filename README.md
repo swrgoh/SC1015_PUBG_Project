@@ -29,9 +29,9 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 ###  - [Data Visualization Heatmap for Deaths](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
 >Contains Notebooks of Using Data to Identify Dangerous Areas 
 >| Step | Brief Summary |
-| ----------- | ----------- |
-| 1| trial |
-| 2 | [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_Visualization) |
+>| ----------- | ----------- |
+>| 1| trial |
+>| 2 | [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_Visualization) |
 #### 
 
 ###  - [Regression & Machine Learning](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
