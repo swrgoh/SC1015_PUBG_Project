@@ -5,11 +5,8 @@ The gaming industry is a prime area for data exploration and extraction due to m
 
 ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/PUBG.jpg "Source: https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/")
 
-In this project, we provide over 13,000,000 player data inputs from the popular game PlayerUnknown's Battlegrounds. The relevant data presented was extracted from the website [pubg.op.gg](http://pubg.op.gg), a game tracker website that directly collects data from PlayerUnknown's Battleground's API. We proceed to explore and visualize this data, and further create predictive models (INSERT WHAT TYPE OF MODEL HERE @FRASER).
+In this project, we provide over 13,000,000 player data inputs from the popular game PlayerUnknown's Battlegrounds. The relevant data presented was extracted from the website [pubg.op.gg](http://pubg.op.gg), a game tracker website that directly collects data from PlayerUnknown's Battleground's API. We proceed to explore and visualize this data, and further create predictive models to better understand more optimal styles of gameplay.
 
-
-
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 
 
@@ -52,7 +49,4 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >|2 | [Random Forest Classification on Distance for Sniper Rifle Avoidiance Strategy](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/2_sniper_classification_tree.ipynb)|
 #### <br>
 ---
-| Folder | ==Brief Description== |
-| ----------- | ----------- |
-| test| trial |
-| Paragraph | Text |
+
