@@ -16,7 +16,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 
 ---
 ### This repository consists of 4 main folders
-###  - [1) Data Scraping from website PUBG.OP.GG](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/1_Collect_Scrape_Data)
+##  - [1) Data Scraping from website PUBG.OP.GG](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/1_Collect_Scrape_Data)
 >Notebooks of Data Scraping utilizing Multiprocessing
 >| Step | Brief Summary |
 >| --- | ---|
@@ -25,7 +25,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >|2| [Helper script written in Python 3.0, utilizing **multiprocessing** & **chunking** to speed up data collection process](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/2_helper.py) |
 #### <br>
 
-###  - [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
+##  - [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
 >Notebooks of Cleaning up Scraped Data for Further Use
 >| Step | Brief Summary |
 >| --- | ---| 
@@ -33,7 +33,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >|2A | [Comprehensive cleaning of General Data with analysis, further utilizing **Feature Scaling** to re-represent win conditions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2a_comprehensive_data_cleaning_erangel_gen.ipynb)|
 #### <br>
 
-###  - [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
+##  - [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Model/Price_Predictor.ipynb)
 >Contains Notebooks of Using Data to Identify Dangerous Areas 
 >| Step | Brief Summary |
 >| ----------- | ----------- |
@@ -43,7 +43,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
 #### <br>
 
-###  - [4) Regression & Machine Learning](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
+##  - [4) Regression & Machine Learning](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
 > Using Matchdata to Determine Winning Probability and Determining Critical Factors for Winning
 >| Step | Brief Summary |
 >| --- | ---| 
