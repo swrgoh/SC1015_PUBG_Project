@@ -33,7 +33,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >| Step | Brief Summary |
 >| ----------- | ----------- |
 >| 1| trial |
->| 2 | [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_Visualization) |
+>| 2 | [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb) |
 #### <br>
 
 ###  - [Regression & Machine Learning](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
