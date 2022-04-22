@@ -9,6 +9,11 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 
 
 
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
+
+
+
 ---
 ### This repository consists of 4 main folders
 ###  - [Data Scraping from website PUBG.OP.GG](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/1_Collect_Scrape_Data)
