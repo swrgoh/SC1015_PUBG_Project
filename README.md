@@ -44,7 +44,13 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 #### <br>
 
 ###  - [4) Regression & Machine Learning](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/tree/main/DSAI%20Project/Dataset)
-     Using Matchdata to Determine Winning Probability and Determining Critical Factors for Winning
+     >     Using Matchdata to Determine Winning Probability and Determining Critical Factors for Winning
+>| Step | Brief Summary |
+>| --- | ---| 
+>| 1A | [Gradient Boosting to Explore Possible Correlation For General Information Dataset](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1a_gradient_boosting.ipynb) |
+>|1B | [Linear Regression on General Information Dataset to Produce Reasoned Deductions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1b_linear_regression_model.ipynb)|
+>|2 | [Random Forest Classification on Distance for Sniper Rifle Avoidiance Strategy](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/2_sniper_classification_tree.ipynb)|
+#### <br>
 ---
 | Folder | ==Brief Description== |
 | ----------- | ----------- |
