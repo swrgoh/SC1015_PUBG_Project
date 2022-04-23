@@ -30,17 +30,17 @@ We want to use Data Science and Machine Learning to win more games.<br>
 >| 1A |[Collecting player list through a few initial "seeds", finding other players they play with and recusively adding to player list](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1a_data_player_scrape.ipynb)<br>**Requires json & requests library**|
 >|1B| [Using 50k discrete player names to recusrively search their match history, and returning data from all players within each match](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1b_data_match_detail_scrape.ipynb)<br>**Requires json & requests library**|
 >|2| [Helper script written in Python 3.0, utilizing **multiprocessing** & **chunking** to speed up data collection process](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/2_helper.py) <br>**Important helper fiile for multithreading and HTTP linking**|
-#### <br>
-
-##  - [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
+>#### <br>
+>
+>##  - [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
 >Notebooks of Cleaning up Scraped Data for Further Use
 >| Step | Brief Summary |
 >| --- | ---| 
 >| 1 | [Combination of data chunks from scraping process & initial cleaning](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/1_data_combination_initial_observation.ipynb) <br>**Requires OS & Glob library**|
 >|2A | [Comprehensive cleaning of **General Data component** with analysis, further utilizing **Feature Scaling** to re-represent win conditions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2_comprehensive_data_cleaning_erangel_gen.ipynb)<br> Also removes anomalous data generated from cheaters using third-party tools to gain unfair advantage|
-#### <br>
-
-##  - [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_%26_General_Visualization)
+>#### <br>
+>
+>##  - [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_%26_General_Visualization)
 >Contains Notebooks of Using Data to Identify Dangerous Areas 
 >| Step | Brief Summary |
 >| ----------- | ----------- |
@@ -50,9 +50,9 @@ We want to use Data Science and Machine Learning to win more games.<br>
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
 > #### Chart Statistic
 > ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png)
-#### <br>
-
-##  - [4) Regression & Machine Learning](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/4_Models_and_Analysis)
+>#### <br>
+>
+>##  - [4) Regression & Machine Learning](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/4_Models_and_Analysis)
 > Using Matchdata to Determine Winning Probability and Determining Critical Factors for Winning
 >| Step | Brief Summary |
 >| --- | ---| 
