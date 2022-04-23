@@ -82,7 +82,7 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >|3 | [Random Forest Classification on Distance for Sniper Rifle Avoidance Strategy](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/3_sniper_forest_classification_tree.ipynb)<br>**Conclusions Below**|
 ><br />
 >
->#### Conclusions of Linear Regression
+>### Conclusions of Linear Regression
 >We set up the model to have 7 predictors. We can utilize their coefficients to determining how much impact one value will have on a player's winning chances
 >| Predictor | Coefficient | Unit|  Observation and Thoughts |
 >| --- | --- | --- | --- |
