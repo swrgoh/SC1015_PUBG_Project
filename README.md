@@ -96,9 +96,9 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 At this distance, if you do not have proper armour, protection or methods to deal with snipers, **Strictly keep inside buildings!**
 ---
 ### Contributors
-🤖 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization<br>
-🤖 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation<br>
-🤖 [Fraser / FCWX](https://github.com/Fcwx) - HTTP implimentation, Basic Visualization, Slides and Video Editing<br>
+🐔 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization<br>
+🐓 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation<br>
+🐣 [Fraser / FCWX](https://github.com/Fcwx) - HTTP implimentation, Basic Visualization, Slides and Video Editing<br>
 
 
 #### <br>
