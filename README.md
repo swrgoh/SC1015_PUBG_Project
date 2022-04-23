@@ -65,7 +65,9 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
 > #### Chart Statistic
 > <img src="(https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png" width="1280" height="720"/>
+> 
 > 	1280 x 720
+> 	
 > ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png)
 >#### <br>
 
