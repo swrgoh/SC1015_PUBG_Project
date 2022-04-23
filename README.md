@@ -70,7 +70,7 @@ At this distance, if you do not have proper armour, protection or methods to dea
 ### Contributors
 🤖 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization<br>
 🤖 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation<br>
-🤖 [Fraser / FCWX]https://github.com/Fcwx) - Data Scraping, HTTP gathering, Basic Visualization, Slides and Video Editing<br>
+🤖 [Fraser / FCWX](https://github.com/Fcwx) - Data Scraping, HTTP gathering, Basic Visualization, Slides and Video Editing<br>
 
 
 #### <br>
