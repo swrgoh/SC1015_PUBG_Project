@@ -17,7 +17,9 @@ This project provides over 13,000,000 player data inputs from the popular game P
 <br />
 
 # Motivation
-**Our group always lose our PUBG games, as we spend too much time studying and do not have much free time to practice shooting, driving ect. in game.**<br>
+**Our group always lose our PUBG games, as we spend too much time studying and do not have much free time to practice shooting, driving ect. in game.**<br \>
+<br />
+
 We want to use Data Science and Machine Learning to win more games.<br>
 #### Main issues that cause us to loose our games & questions derived from them:
 >| In-Game issues that our team faced | Problem Definition / Question we develop|
