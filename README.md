@@ -94,6 +94,18 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >After **39.818m**, neighbouring gini coefficient is at **0.499**. This means there is a 49.9% / 50.1% chance that the player may be killed by a sniper rifle.
 At this distance, if you do not have proper armour, protection or methods to deal with snipers, **Strictly keep inside buildings!**
 ---
+<br />
+<br />
+<br />
+# Final Note
+**As we are utilizing games, the data extracted will definitley have noticible amounts of variance**<br>
+**We cannot attribute to the "luckiness" of a player, and therefore will never be able to create a perfect machine model of a player's actions**
+
+
+---
+<br />
+<br />
+<br />
 ### Contributors
 🐔 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization<br>
 🐓 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation<br>
