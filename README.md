@@ -44,7 +44,7 @@ We want to use Data Science and Machine Learning to win more games.<br>
 >|2| [Helper script written in Python 3.0, utilizing **multiprocessing** & **chunking** to speed up data collection process](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/2_helper.py) <br>**Important helper fiile for multithreading and HTTP linking**|
 >#### <br>
 >
->##  - [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
+>##   [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
 >Notebooks of Cleaning up Scraped Data for Further Use
 >| Step | Brief Summary |
 >| --- | ---| 
@@ -52,7 +52,7 @@ We want to use Data Science and Machine Learning to win more games.<br>
 >|2A | [Comprehensive cleaning of **General Data component** with analysis, further utilizing **Feature Scaling** to re-represent win conditions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2_comprehensive_data_cleaning_erangel_gen.ipynb)<br> Also removes anomalous data generated from cheaters using third-party tools to gain unfair advantage|
 >#### <br>
 >
->##  - [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_%26_General_Visualization)
+>##   [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_%26_General_Visualization)
 >Contains Notebooks of Using Data to Identify Dangerous Areas 
 >| Step | Brief Summary |
 >| ----------- | ----------- |
@@ -64,7 +64,7 @@ We want to use Data Science and Machine Learning to win more games.<br>
 > ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png)
 >#### <br>
 >
->##  - [4) Regression & Machine Learning](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/4_Models_and_Analysis)
+>##   [4) Regression & Machine Learning](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/4_Models_and_Analysis)
 > Using Matchdata to Determine Winning Probability and Determining Critical Factors for Winning
 >| Step | Brief Summary |
 >| --- | ---| 
