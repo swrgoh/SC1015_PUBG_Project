@@ -91,7 +91,7 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >|`player_kills `      |**8.103%**| per kill| Wow! In PUBG, there are many strategies players use. <br>One strategy is avoiding fights, and the other is actively hunting people to kill.<br>This data reveals that it is extremely worthwhile to go for kills, as one single kill increases your chance of winning by **8%**|
 >### Conclusions of Random Forest
 >#### 4-Deep Tree Structure
->High Caliber Sniper Rifles are instant-kill for headshot type damage. This results in the **most dangerous** item in the game.<br>
+>~ High Caliber Sniper Rifles are instant-kill for headshot type damage. This results in the **most dangerous** item in the game.<br>
 >After **39.818m**, neighbouring gini coefficient is at **0.499**. This means there is a 49.9% / 50.1% chance that the player may be killed by a sniper rifle.
 At this distance, if you do not have proper armour, protection or methods to deal with snipers, **Strictly keep inside buildings!**
 ---
