@@ -16,9 +16,9 @@ We want to use Data Science and Machine Learning to win more games.<br>
 #### Main issues that cause us to loose our games & questions derived from them:
 >| In-Game issue | Problem Definition |
 >| --- | --- |
->| We always enter highly contested areas that cause us to die | Are there specific areas players should avoid?|
->| Our group keeps on getting instantly killed by high-powered sniper rifles | Are there specific ways to avoid or reduce chances of getting sniped?|
->| We don't know what is the best strategy to survive | What are the factors that help a player win more? |
+>| We always enter highly contested areas that cause us to die | **A) Are there specific areas players should avoid?** |
+>| Our group keeps on getting instantly killed by high-powered sniper rifles | **B) Are there specific ways to avoid or reduce chances of getting sniped?** |
+>| We don't know what is the best strategy to survive | **C) What are the factors that help a player win more?** |
 
 
 ---
