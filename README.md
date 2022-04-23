@@ -27,7 +27,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >| Step | Brief Summary |
 >| --- | ---| 
 >| 1 | [Combination of data chunks from scraping process & initial cleaning](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/1_data_combination_initial_observation.ipynb) <br>**Requires OS & Glob library**|
->|2A | [Comprehensive cleaning of General Data with analysis, further utilizing **Feature Scaling** to re-represent win conditions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2_comprehensive_data_cleaning_erangel_gen.ipynb)|
+>|2A | [Comprehensive cleaning of **General Data component** with analysis, further utilizing **Feature Scaling** to re-represent win conditions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/2_Cleaning_Data/2_comprehensive_data_cleaning_erangel_gen.ipynb)<br> Also removes anomalous data generated from cheaters using third-party tools to gain unfair advantage|
 #### <br>
 
 ##  - [3) Data Visualization, Map Heatmap Visualization for Deaths](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/3_Map_%26_General_Visualization)
