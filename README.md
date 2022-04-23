@@ -70,6 +70,7 @@ We want to use Data Science and Machine Learning to win more games.<br>
 >| --- | ---| 
 >| 1A | [Gradient Boosting to Explore Possible Correlation For General Information Dataset](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1a_gradient_boosting.ipynb)<br> **Resulting Correlation Score at 0.7866** |
 >| 1B | [K-Nearest Neighbour Analysis to select Predictor Feature For Linear Regression](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1b_K-Nearest_neighbour.ipynb)<br> **Resulting R2 value at 0.8835** |
+>| 1C | [eXtreme Gradient Boosting, check if possible for direct gradient regression](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1c_eXtreme_Grad_Boost.ipynb)<br> **Resulting R2 value at 0.7777** |
 >|2 | [Linear Regression on General Information Dataset to Produce Reasoned Deductions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/2_linear_regression_model.ipynb)<br> **Conclusions Below**|
 >|3 | [Random Forest Classification on Distance for Sniper Rifle Avoidance Strategy](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/3_sniper_forest_classification_tree.ipynb)<br>**Conclusions Below**|
 >### Conclusions of Linear Regression
