@@ -24,7 +24,7 @@ This project provides over 13,000,000 player data inputs from the popular game P
 We want to use Data Science and Machine Learning to win more games.<br>
 <br />
 
-> #### Main issues that cause us to loose our games & questions derived from them:
+> ### Main issues that cause us to loose our games & questions derived from them:
 >| In-Game issues that our team faced | Problem Definition / Question we develop|
 >| --- | --- |
 >| We always enter highly contested areas that cause us to die | **A) Are there specific areas players should avoid?** |
