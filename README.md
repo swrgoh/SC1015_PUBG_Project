@@ -115,6 +115,7 @@ At this distance, if you do not have proper armour, protection or methods to dea
 <br />
 <br />
 <br />
+
 ### Contributors
 🐔 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization<br>
 🐓 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation<br>
