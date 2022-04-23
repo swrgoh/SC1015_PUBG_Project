@@ -63,6 +63,7 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >| ----------- | ----------- |
 >| 1| [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb) <br> **Requires ipywidgets, re, HTML & PIL libraries**|
 >| 2 | [Kills per Distance by weapon type](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/2_kill_distance_weapon_type.ipynb) |
+><br />
 >   #### Example of Heatmap 
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
 > #### Chart Statistic
@@ -78,7 +79,9 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >| 1C | [eXtreme Gradient Boosting, check if possible for direct gradient regression](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1c_eXtreme_Grad_Boost.ipynb)<br> **Resulting R2 value at 0.7777** |
 >|2 | [Linear Regression on General Information Dataset to Produce Reasoned Deductions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/2_linear_regression_model.ipynb)<br> **Conclusions Below**|
 >|3 | [Random Forest Classification on Distance for Sniper Rifle Avoidance Strategy](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/3_sniper_forest_classification_tree.ipynb)<br>**Conclusions Below**|
->### Conclusions of Linear Regression
+><br />
+>
+>#### Conclusions of Linear Regression
 >We set up the model to have 7 predictors. We can utilize their coefficients to determining how much impact one value will have on a player's winning chances
 >| Predictor | Coefficient | Unit|  Observation and Thoughts |
 >| --- | --- | --- | --- |
