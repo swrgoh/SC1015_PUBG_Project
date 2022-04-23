@@ -13,8 +13,6 @@ This project provides over 13,000,000 player data inputs from the popular game P
 <br />
 <br />
 <br />
-<br />
-<br />
 
 # Motivation
 **Our group always lose our PUBG games, as we spend too much time studying and do not have much free time to practice shooting, driving ect. in game.** 
@@ -33,8 +31,6 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 
 
 ---
-<br />
-<br />
 <br />
 <br />
 <br />
