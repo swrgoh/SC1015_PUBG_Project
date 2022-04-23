@@ -68,9 +68,9 @@ This project provides over 13,000,000 player data inputs from the popular game P
 At this distance, if you do not have proper armour, protection or methods to deal with snipers, **Strictly keep inside buildings!**
 ---
 ### Contributors
-#### 🤖 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization
-#### 🤖 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation
-#### 🤖 [Fraser / FCWX]https://github.com/Fcwx) - Data Scraping, HTTP gathering, Basic Visualization, Slides and Video Editing
+ 🤖 [Ryan Goh / Gyanroh](https://github.com/Gyanroh) - Data Scraping, Multithreading, Data Preparation, Predictive Modeling, Distance Visualization
+🤖 [Kai / SlothKai](https://github.com/SlothKai) - Heatmap Visualization, User-interface implimentation, Histogram Preparation
+🤖 [Fraser / FCWX]https://github.com/Fcwx) - Data Scraping, HTTP gathering, Basic Visualization, Slides and Video Editing
 
 
 #### <br>
