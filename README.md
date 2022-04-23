@@ -50,6 +50,18 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >| 1B | K-Nearest Neighbour Analysis to select Predictor Feature For Linear Regression](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/1b_K-Nearest_neighbour.ipynb)<br> **Resulting R2 value at 0.8835** |
 >|2 | [Linear Regression on General Information Dataset to Produce Reasoned Deductions](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/2_linear_regression_model.ipynb)<br> **Conclusions Below**|
 >|3 | [Random Forest Classification on Distance for Sniper Rifle Avoidiance Strategy](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/4_Models_and_Analysis/3_sniper_forest_classification_tree.ipynb)<br>**Conclusions Below**|
+>### Conclusions of Linear Regression
+>We set up the model to have 7 predictors. We can utilize their coefficients to determing how much impact one value will have on a player's winning chances
+    | Predictor | Coefficient | Unit|  Observation and Thoughts |
+    | --- | --- | --- | --- |
+    |`game_size `         |0.0289% | per player|  With a smaller pool of players, it makes sense that a player will have higher chances of winning  <br>~|
+    |`player_survive_time`| 0.038% |per second| Every minute, a player's chances of winning increases by **2.28%!**<br>~|
+    |`player_dmg `        |0.0013% |per 1 damage dealt| A single bullet from a AK-47 deals 47 damage. Hitting 30 bullets increases winning chance by **1.833%**<br>~|
+    |`player_dbno   `     | -15%| per knockdown| Every knockdown reduces a players winning chance by a significant margin <br> ~  |
+    |`player_dist_walk`   | 0.002% |per meter walked |   Every **km** a player walks, his chance of winning increases by **2%**<br>~|
+    |`player_dist_ride`   |  0.005%| per distance driven | Every **km** a player drives, his chance of winning increases by **5%**! <br>This is much better than walking |
+    |`player_kills `      |8.103%| per kill| Wow! In PUBG, there are many strategies players use. <br>One strategy is avoiding fights, and the other is actively hunting people to kill.<br>This data reveals that it is extremely worthwhile to go for kills, as one single kill increases your chance of winning by **8%**|
+
 #### <br>
 ---
 
