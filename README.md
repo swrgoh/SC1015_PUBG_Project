@@ -20,7 +20,7 @@ This project provides over 13,000,000 player data inputs from the popular game P
 Our group is tired of always loosing our PUBG games, as we spend too much time studying and do not have much free time to practice shooting, driving ect. in game.<br>
 We want to use Data Science and Machine Learning to win more games.<br>
 #### Main issues that cause us to loose our games & questions derived from them:
->| In-Game issues our team faces | Problem Definition / Question |
+>| In-Game issues that our team faced | Problem Definition / Question we develop|
 >| --- | --- |
 >| We always enter highly contested areas that cause us to die | **A) Are there specific areas players should avoid?** |
 >| Our group keeps on getting instantly killed by high-powered sniper rifles | **B) Are there specific ways to avoid or reduce chances of getting sniped?** |
