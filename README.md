@@ -103,10 +103,10 @@ At this distance, if you do not have proper armour, protection or methods to dea
 >**As we are utilizing games, the data extracted will definitely have noticeable amounts of variance**<br>
 ><br />
 >
->**We cannot attribute to the "luckiness" of a player and therefore will never be able to create a perfect machine model of a player's actions**
+>We cannot attribute or calculate human behaviour. Sometimes, players may get `lucky`. We therefore will never be able to create a perfect machine model of a player's actions.
 ><br />
 >
->**However, we hope that this data can help us (and the reader) develop better strategies when playing PUBG in the future and hopefully win more games.** 
+>However, we hope that this data can help us (and the reader) develop better strategies when playing PUBG in the future and hopefully **win more games**.
 ><br />
 >
 ><img src="https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/winner.gif" width="330" height="184"/>
