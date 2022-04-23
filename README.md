@@ -34,7 +34,7 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >Contains Notebooks of Using Data to Identify Dangerous Areas 
 >| Step | Brief Summary |
 >| ----------- | ----------- |
->| 1| [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb) |
+>| 1| [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb) <br> **Requires ipywidgets, re, HTML & PIL libraries**|
 >| 2 | [Kills per Distance by weapon type](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/2_kill_distance_weapon_type.ipynb) |
 >   #### Example of Heatmap 
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
