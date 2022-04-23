@@ -97,9 +97,10 @@ At this distance, if you do not have proper armour, protection or methods to dea
 <br />
 <br />
 <br />
+
 # Final Note
-**As we are utilizing games, the data extracted will definitley have noticible amounts of variance**<br>
-**We cannot attribute to the "luckiness" of a player, and therefore will never be able to create a perfect machine model of a player's actions**
+>**As we are utilizing games, the data extracted will definitley have noticible amounts of variance**<br>
+>**We cannot attribute to the "luckiness" of a player, and therefore will never be able to create a perfect machine model of a player's actions**
 
 
 ---
