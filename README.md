@@ -7,7 +7,7 @@ The gaming industry is a prime area for data exploration and extraction due to m
 
 This project provides over 13,000,000 player data inputs from the popular game PlayerUnknown's Battlegrounds. The relevant data presented was extracted from the website [pubg.op.gg](http://pubg.op.gg), a game tracker website that directly collects data from PlayerUnknown's Battleground's API. We proceed to explore and visualize this data and further create predictive models to better understand more optimal styles of gameplay.
 
-> [![PUBG TEAM](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/PUBG%20Team%20demo.gif
+> [![PUBG TEAM](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/PUBG%20Team%20demo.gif)
 
 
 
