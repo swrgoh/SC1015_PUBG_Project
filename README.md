@@ -36,9 +36,9 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >| ----------- | ----------- |
 >| 1| [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb) |
 >| 2 | [Kills per Distance by weapon type](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/2_kill_distance_weapon_type.ipynb) |
->   ##### Example of Heatmap 
+>   #### Example of Heatmap 
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
-> ##### Chart Statistic
+> #### Chart Statistic
 > ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png)
 #### <br>
 
@@ -61,6 +61,10 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >|`player_dist_walk`   | 0.002% |per meter walked |   Every **km** a player walks, his chance of winning increases by **2%**<br>~|
 >|`player_dist_ride`   |  0.005%| per distance driven | Every **km** a player drives, his chance of winning increases by **5%**! <br>This is much better than walking |
 >|`player_kills `      |8.103%| per kill| Wow! In PUBG, there are many strategies players use. <br>One strategy is avoiding fights, and the other is actively hunting people to kill.<br>This data reveals that it is extremely worthwhile to go for kills, as one single kill increases your chance of winning by **8%**|
+>### Conclusions of Random Forest
+>`After 39.818m, neighbouring gini coefficient is at 0.499. This means there is a 49.9% / 50.1% chance that the player may be killed by a sniper rifle.
+At this distance, if you do not have proper armor, protection or methods to deal with snipers, Strictly keep inside buildings!`
+
 
 #### <br>
 ---
