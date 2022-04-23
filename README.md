@@ -106,7 +106,7 @@ At this distance, if you do not have proper armour, protection or methods to dea
 ><br />
 >
 >**However, we hope that this data can help us (and the reader) develop better strategies when playing PUBG in the future and hopefully win more games.
-
+>
 > ![Winner](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/winner.gif)
 
 ---
