@@ -23,7 +23,7 @@ We want to use Data Science and Machine Learning to win more games.<br>
 
 ---
 ### This repository consists of 4 main folders
-##  - [1) Data Scraping from website PUBG.OP.GG](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/1_Collect_Scrape_Data)
+>##  - [1) Data Scraping from website PUBG.OP.GG](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/1_Collect_Scrape_Data)
 >Notebooks of Data Scraping utilizing Multiprocessing
 >| Step | Brief Summary |
 >| --- | ---|
