@@ -17,9 +17,9 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >Notebooks of Data Scraping utilizing Multiprocessing
 >| Step | Brief Summary |
 >| --- | ---|
->| 1A |[Collecting player list through a few initial "seeds", finding other players they play with and recusively adding to player list](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1a_data_player_scrape.ipynb)|
->|1B| [Using 50k discrete player names to recusrively search their match history, and returning data from all players within each match](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1b_data_match_detail_scrape.ipynb)|
->|2| [Helper script written in Python 3.0, utilizing **multiprocessing** & **chunking** to speed up data collection process](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/2_helper.py) |
+>| 1A |[Collecting player list through a few initial "seeds", finding other players they play with and recusively adding to player list](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1a_data_player_scrape.ipynb)<br>**Requires json & requests library**|
+>|1B| [Using 50k discrete player names to recusrively search their match history, and returning data from all players within each match](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/1b_data_match_detail_scrape.ipynb)<br>**Requires json & requests library**|
+>|2| [Helper script written in Python 3.0, utilizing **multiprocessing** & **chunking** to speed up data collection process](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/1_Collect_Scrape_Data/2_helper.py) <br>**Important helper fiile for multithreading and HTTP linking**|
 #### <br>
 
 ##  - [2) Data Cleaning and Separation](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/2_Cleaning_Data)
