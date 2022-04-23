@@ -38,6 +38,8 @@ In this project, we provide over 13,000,000 player data inputs from the popular 
 >| 2 | [Kills per Distance by weapon type](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/2_kill_distance_weapon_type.ipynb) |
 >   ##### Example of Heatmap 
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
+> ##### Chart Statistic
+> ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png)
 #### <br>
 
 ##  - [4) Regression & Machine Learning](https://github.com/Gyanroh/SC1015_PUBG_Project/tree/main/4_Models_and_Analysis)
