@@ -64,6 +64,8 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >   #### Example of Heatmap 
 > [![Demo Doccou alpha](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/sniper.gif)](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb)
 > #### Chart Statistic
+> <img src="(https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png" width="1280" height="720"/>
+> 	1280 x 720
 > ![alt text](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/death-distance-weap-chart.png)
 >#### <br>
 
@@ -105,7 +107,9 @@ At this distance, if you do not have proper armour, protection or methods to dea
 >**We cannot attribute to the "luckiness" of a player and therefore will never be able to create a perfect machine model of a player's actions**
 ><br />
 >
->**However, we hope that this data can help us (and the reader) develop better strategies when playing PUBG in the future and hopefully win more games. <br>
+>**However, we hope that this data can help us (and the reader) develop better strategies when playing PUBG in the future and hopefully win more games.** 
+><br />
+>
 ><img src="https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/image_folder/winner.gif" width="330" height="184"/>
 
 ---
