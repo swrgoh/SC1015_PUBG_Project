@@ -21,7 +21,7 @@ This project provides over 13,000,000 player data inputs from the popular game P
 <br />
 <br />
 
-We want to use Data Science and Machine Learning to win more games.<br>
+We want to use Data Science and Machine Learning to win more games 🏆 🏆 🏆<br>
 <br />
 
 > ### Main issues that cause us to loose our games & questions derived from them:
