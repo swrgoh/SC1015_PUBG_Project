@@ -57,7 +57,7 @@ We want to use Data Science and Machine Learning to win more games 🏆 🏆 �
 >Contains Notebooks of Using Data to Identify Dangerous Areas 
 >| Step | Brief Summary |
 >| ----------- | ----------- |
->| 1| [Data visualisation](https://https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/Data%20Visualisation.ipynb) 
+>| 1| [Data visualisation](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/Data%20Visualisation.ipynb) 
 >| 2| [Dynamically generate heatmap with **User Input** to generate heat map of **Danger Areas**](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/1_heatmap_visualisation.ipynb) <br> **Requires ipywidgets, re, HTML & PIL libraries**|
 >| 3 | [Kills per Distance by weapon type](https://github.com/Gyanroh/SC1015_PUBG_Project/blob/main/3_Map_%26_General_Visualization/2_kill_distance_weapon_type.ipynb) |
 ><br />
